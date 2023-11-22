@@ -1,1 +1,9 @@
 # Steps
+# Game Project
+
+PARA CORRER EL JUEGO DEBES SEGUIR LAS SIGUIENTES INSTRUCCIONES EN LA TERMINAL:
+
+```sh
+cd game
+python3 main.py
+```
