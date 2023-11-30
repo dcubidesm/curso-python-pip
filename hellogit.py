@@ -1,1 +1,1 @@
-print("hola es una prueba de checkout")
+print("hola es una prueba de checkout y reset")
