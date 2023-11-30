@@ -1,4 +1,4 @@
-print('Hola desde Vscode v2')
+print('Hola desde Vscode :)')
 
 "Que numero es mayor"
 def mayor(a,b):
